@@ -127,7 +127,7 @@ Developed by:
 
 1. **Saish Pardeshi**
 2. **Krushna Jadhav**
-3. **Gauri Savantsarkar**
+3. **Gauri Sanvatsarkar **
 
 ## 🔮 Future Improvements
 
